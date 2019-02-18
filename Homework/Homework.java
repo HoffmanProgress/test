@@ -9,7 +9,7 @@
 public class Homework {
 
 	public static void main(String[] args) {
-		//asdasd
+		
 		
 		int [] a = {12,23,54,43,12,76,45,32,55,19};
 		int [] b = {5,4,3,2,6,8,1,10};
